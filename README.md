@@ -72,7 +72,6 @@ The website uses a fantasy-inspired visual theme designed to match the romantasy
 This following link will provide a live website:
 https://superb-amber-lion-237.vscodeedu.app
 
-*Add screenshots of the website here.*
 <img width="1903" height="944" alt="image" src="https://github.com/user-attachments/assets/5430f726-4e55-4178-91da-4a1d6cbcf87b" />
 Header Image
 <img width="1905" height="946" alt="image" src="https://github.com/user-attachments/assets/9ceca9b0-ff6d-4c0a-b9cf-6c9474fd0712" />
