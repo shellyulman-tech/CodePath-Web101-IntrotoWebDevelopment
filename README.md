@@ -17,6 +17,24 @@ The site is designed to give attendees an immersive way to explore the conventio
 * Frequently asked questions
 * Giveaway information
 
+### Interactive Navigation
+
+- Sticky navigation bar that remains visible while scrolling
+- Smooth scrolling between sections
+- Active navigation highlight that updates based on the section currently being viewed
+- Navigation links for:
+  - Home
+  - About
+  - Event Schedule
+  - Authors
+  - Links
+  - RSVP
+  - FAQs
+  - Venue
+  - Giveaways
+  - Gallery
+  - Quote
+
 ###  Interactive RSVP
 
 The website includes an interactive RSVP form where visitors can enter:
@@ -35,12 +53,15 @@ RSVP submissions are displayed through an **"Enchanted Guest Ledger"** and the s
 
 * Dark mode toggle
 * Animated/revealable sections
-* Interactive navigation
-* Custom event cards
+* Sticky navigation
+* Active navigation highlighting
+* Smooth scrolling
+* Interactive event cards
 * Convention highlights photo gallery
 * RSVP confirmation
 * Success modal with themed imagery
 * Fantasy-inspired typography and visual design
+* Decorative fantasy-themed backgrounds and imagery
 
 ###  Convention Content
 
@@ -65,21 +86,48 @@ The event also includes author profiles, venue details, giveaways, and conventio
 
 ##  Design
 
-The website uses a fantasy-inspired visual theme designed to match the romantasy genre. The design incorporates custom imagery, decorative dividers, fantasy-themed typography, event cards, and themed interactive elements.
+The website uses a fantasy-inspired visual theme designed to match the romantasy genre.
+
+The design incorporates:
+
+- Purple, gold, and soft pink color palette
+- Fantasy-inspired typography
+- Custom event imagery
+- Decorative dividers
+- Fantasy-themed backgrounds
+- Themed event cards
+- Interactive buttons and navigation
+- Light and dark visual themes
+
+The goal was to create an immersive experience that feels appropriate for a romantasy book convention while keeping the information easy to navigate.
 
 ##  Website Preview
 
 This following link will provide a live website:
 https://superb-amber-lion-237.vscodeedu.app
 
-<img width="1903" height="944" alt="image" src="https://github.com/user-attachments/assets/5430f726-4e55-4178-91da-4a1d6cbcf87b" />
-Header Image
-<img width="1905" height="946" alt="image" src="https://github.com/user-attachments/assets/9ceca9b0-ff6d-4c0a-b9cf-6c9474fd0712" />
-Header Image in Dark Mode
+### Homepage
+
+<img width="1298" height="917" alt="image" src="https://github.com/user-attachments/assets/3c3e092e-214d-4fa6-bd20-59f1029f6d76" />
+
+### Header in Dark Mode
+
+<img width="1295" height="914" alt="image" src="https://github.com/user-attachments/assets/64b4848c-7886-4a3b-827b-60c7375031e5" />
+
+### Event Schedule
+
 <img width="1904" height="941" alt="image" src="https://github.com/user-attachments/assets/746f76f0-12d7-40e7-81e1-843d8ebd6fcf" />
-Event Schedule
+
+### RSVP Section
+
 <img width="1906" height="944" alt="image" src="https://github.com/user-attachments/assets/0173bdab-ef18-4e8f-8593-e02b94ac221d" />
-RSVP Section
+<img width="1227" height="916" alt="image" src="https://github.com/user-attachments/assets/5114ced1-622e-4cde-8298-6d49ca5cd226" />
+<img width="1231" height="918" alt="image" src="https://github.com/user-attachments/assets/b9dc6795-e8ee-4809-afd7-aa9aed2ab4e6" />
+<img width="1232" height="917" alt="image" src="https://github.com/user-attachments/assets/73bca522-175d-4647-baab-1c82f0db1322" />
+
+
+
+
 
 ##  What I Learned
 
